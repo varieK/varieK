@@ -25,9 +25,6 @@
 - **Automation Workflows:** Business process automation saving 60%+ manual work
 - **AI Chatbots:** Intelligent assistants for various industries
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=varieK&show_icons=true&theme=radical)
-
 ## 🌍 Let's Connect
 - 💼 Available for AI/automation consulting and development
 - 🌐 Based in Bangkok, working with global clients
