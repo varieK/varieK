@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Myo Myo Khant
+# 👋 Hi, I'm Myo(Varie)
 
 🤖 **AI Engineer & Full-Stack Developer** building intelligent solutions that matter
 
