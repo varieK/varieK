@@ -1,33 +1,67 @@
-# 👋 Hi, I'm Myo(Varie)
+# Myo Myo Khant (Varie)
 
-🤖 **AI Engineer & Full-Stack Developer** building intelligent solutions that matter
+AI-focused Software Engineer building production-ready AI systems, backend services, and automation workflows.  
+Experienced in shipping SaaS platforms, LLM-powered applications, and scalable APIs for real-world use cases.
 
-🚀 Currently working on AI-powered SaaS platforms and automation workflows for global clients
+Based in Bangkok, working with global clients and distributed teams.
 
-## 🔭 What I'm Working On
-- AI MVPs and intelligent automation systems
-- LLM-powered applications with RAG and vector databases
-- Full-stack solutions using MERN/Next.js + Python
-- Workflow automation with n8n, Make.com
+---
 
-## 🛠 Tech Stack
-**Languages:** Python, JavaScript, TypeScript, PHP, Java  
-**AI/ML:** LangChain, RAG, Vector DBs, LLM APIs, Prompt Engineering  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Django, FastAPI  
-**Databases:** MongoDB, PostgreSQL, Milvus, ChromaDB  
-**Cloud:** AWS, Vercel, DigitalOcean  
-**Automation:** n8n, Make.com, Docker  
+## Focus Areas
 
-## 🌟 Featured Projects
-- **AI SEO Assistant:** MERN stack platform with multiple LLM integrations
-- **Smart Activity Planner:** RAG-based recommendation system with Milvus
-- **Automation Workflows:** Business process automation saving 60%+ manual work
-- **AI Chatbots:** Intelligent assistants for various industries
+- AI-powered SaaS platforms and internal tools
+- LLM workflows including RAG, prompt orchestration, and vector search
+- Backend architecture and API development
+- Workflow automation and system integration
+- Cloud deployment and production reliability
 
-## 🌍 Let's Connect
-- 💼 Available for AI/automation consulting and development
-- 🌐 Based in Bangkok, working with global clients
-- 📧 Open to collaborating on innovative AI projects
+---
 
-*Building the future, one AI solution at a time* ✨
+## Current Work
+
+- Designing and delivering AI MVPs and production systems for startups
+- Building LLM-driven applications with retrieval-augmented generation
+- Implementing automation pipelines to reduce manual operations
+- Integrating third-party APIs and cloud services into scalable systems
+
+---
+
+## Technical Stack
+
+**Languages**  
+Python, JavaScript, TypeScript, PHP, Java
+
+**AI & Machine Learning**  
+LLMs, LangChain, RAG, Prompt Engineering, Vector Databases
+
+**Frontend**  
+React, Next.js, Tailwind CSS
+
+**Backend**  
+Node.js, Express.js, Django, FastAPI
+
+**Databases**  
+PostgreSQL, MongoDB, Milvus, ChromaDB, Redis
+
+**Cloud & DevOps**  
+AWS, Vercel, DigitalOcean, Docker
+
+**Automation**  
+n8n, Make.com
+
+---
+
+## Professional Interests
+
+- Applied AI and production LLM systems
+- AI-driven automation and workflow orchestration
+- Backend-heavy, product-oriented engineering
+- Building reliable systems beyond prototypes
+
+---
+
+## Contact
+
+- Portfolio: https://myomyokhant.site  
+- Email: myokhant122021@gmail.com  
+- Open to collaboration on AI-focused projects and engineering roles
