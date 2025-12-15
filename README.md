@@ -1,4 +1,4 @@
-# Myo Myo Khant (Varie)
+# Hi! I'm Myo (Varie)
 
 AI-focused Software Engineer building production-ready AI systems, backend services, and automation workflows.  
 Experienced in shipping SaaS platforms, LLM-powered applications, and scalable APIs for real-world use cases.
