@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF10A9,50:9B5CFF,100:00C4FF&height=180&section=header&text=Myo%20Myo%20Khant&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://myomyokhant.com/sketches/header.svg" width="100%" alt="Myo Myo Khant — AI Software Engineer · LLM Specialist · Automation Expert"/>
 </h1>
 
 <p align="center">
@@ -20,21 +20,54 @@
 
 I'm a full-stack engineer (4+ years) who ships production AI SaaS end to end: React and Next.js on the front, Node and Python on the back, with LLMs and ML through the middle. I'm based in Bangkok and work remote-first with clients in Australia, Canada, Austria and the US. I take products from idea to production and own the messy parts in between.
 
-Most of the work below lives in private client repos under NDA, so I describe what I built rather than naming clients. I'm glad to walk through the architecture, and the private code, in a call.
 
 ---
 
-### Highlights
+### Flagship work
 
-| Domain | What it is | What I built |
-|---|---|---|
-| **Music marketplace** | AI beat-licensing platform (web, mobile, Python ML service) | CLAP semantic audio search by text, sample or URL; AI mix and master; dual-rail Stripe and PayPal payments with an idempotent ledger |
-| **AI-visibility SaaS** | Tracks how brands surface across 7 LLMs | An MCP server (24 tools, JSON-RPC, OAuth) so AI agents can query it; 7-LLM tracking with failover; document RAG on Pinecone |
-| **Publishing suite** | Multi-platform social publishing and agency ops | An 8-network adapter architecture; an AI video pipeline (script, avatar, voice, render); an advisory-lock scheduler |
-| **Delivery ops platform** | Workforce and rostering platform (73K LOC) | A 4-week rolling-roster engine; Claude compliance-doc analysis; Supabase RLS dual-key security |
-| **Healthcare NLP** | Patient-feedback analytics | BERTopic topic modeling with clinical coding; a cost-aware multi-LLM router (local and cloud) |
+Five systems running in production, in private client repos under NDA — so the hand-drawn sketches show the architecture, not the client.
 
-All five run in production in private repos. Architecture walkthroughs available on request.
+<img align="right" width="240" src="https://myomyokhant.com/sketches/ai-music-marketplace.svg" alt="AI music marketplace flow: text / audio / URL → CLAP embedding → Pinecone similarity"/>
+
+#### 🎵 AI Music Marketplace
+
+AI beat-licensing platform across web, mobile and a Python ML service. I built CLAP semantic audio search (by text, sample or URL), AI mix & master, and dual-rail Stripe + PayPal payments with an idempotent ledger.
+
+<br clear="all"/>
+
+<img align="left" width="240" src="https://myomyokhant.com/sketches/ai-brand-visibility-saas.svg" alt="AI-visibility SaaS flow: AI agents call an MCP server (24 tools) over JSON-RPC"/>
+
+#### 🛰️ AI-Visibility SaaS
+
+Tracks how a brand surfaces across 7 LLMs. I built an MCP server (24 tools, JSON-RPC, OAuth) so AI agents can query it directly, 7-LLM tracking with failover, and document RAG on Pinecone.
+
+<br clear="all"/>
+
+<img align="right" width="240" src="https://myomyokhant.com/sketches/multi-platform-publishing-suite.svg" alt="Publishing suite flow: many workers, one job via advisory-lock SKIP LOCKED → 8 platforms"/>
+
+#### 📡 Multi-Platform Publishing Suite
+
+Multi-platform social publishing and agency ops. I built an 8-network adapter architecture, an AI video pipeline (script → avatar → voice → render), and an advisory-lock scheduler.
+
+<br clear="all"/>
+
+<img align="left" width="240" src="https://myomyokhant.com/sketches/delivery-ops-platform.svg" alt="Delivery ops flow: 4-week rolling-roster window with rollForward and auto-assign to vans"/>
+
+#### 🚚 Delivery-Ops Platform
+
+Workforce and rostering platform, 73K LOC. I built a 4-week rolling-roster engine, Claude compliance-doc analysis, and Supabase RLS dual-key security.
+
+<br clear="all"/>
+
+<img align="right" width="240" src="https://myomyokhant.com/sketches/patient-feedback-nlp.svg" alt="Healthcare NLP flow: comments → BERTopic clusters → 19 categories with sentiment"/>
+
+#### 🩺 Patient-Feedback NLP
+
+Healthcare patient-feedback analytics. I built BERTopic topic modeling with clinical coding and a cost-aware multi-LLM router (local + cloud).
+
+<br clear="all"/>
+
+Architecture walkthroughs — and the private code — available on request.
 
 ---
 
