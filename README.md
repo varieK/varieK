@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://myomyokhant.site"><img src="https://img.shields.io/badge/Portfolio-myomyokhant.site-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://myomyokhant.com"><img src="https://img.shields.io/badge/Portfolio-myomyokhant.com-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/myo-myo-khant"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:myokhant122021@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### About
+### Hi, I'm Myo (Varie)! 👋
 
 I'm a full-stack engineer (4+ years) who ships production AI SaaS end to end: React and Next.js on the front, Node and Python on the back, with LLMs and ML through the middle. I'm based in Bangkok and work remote-first with clients in Australia, Canada, Austria and the US. I take products from idea to production and own the messy parts in between.
 
