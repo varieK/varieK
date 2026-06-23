@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://myomyokhant.com/sketches/header.svg" width="100%" alt="Myo Myo Khant — AI Software Engineer · LLM Specialist · Automation Expert"/>
-</h1>
+<img src="https://myomyokhant.com/sketches/header.svg" width="100%" alt="Myo Myo Khant — AI Software Engineer · LLM Specialist · Automation Expert"/>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,64 +13,7 @@
   <a href="mailto:myokhant122021@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-### Hi, I'm Myo (Varie)! 👋
-
-I'm a full-stack engineer (4+ years) who ships production AI SaaS end to end: React and Next.js on the front, Node and Python on the back, with LLMs and ML through the middle. I'm based in Bangkok and work remote-first with clients in Australia, Canada, Austria and the US. I take products from idea to production and own the messy parts in between.
-
-
----
-
-### Flagship work
-
-Five systems running in production, in private client repos under NDA — so the hand-drawn sketches show the architecture, not the client.
-
-<img align="right" width="240" src="https://myomyokhant.com/sketches/ai-music-marketplace.svg" alt="AI music marketplace flow: text / audio / URL → CLAP embedding → Pinecone similarity"/>
-
-#### 🎵 AI Music Marketplace
-
-AI beat-licensing platform across web, mobile and a Python ML service. I built CLAP semantic audio search (by text, sample or URL), AI mix & master, and dual-rail Stripe + PayPal payments with an idempotent ledger.
-
-<br clear="all"/>
-
-<img align="left" width="240" src="https://myomyokhant.com/sketches/ai-brand-visibility-saas.svg" alt="AI-visibility SaaS flow: AI agents call an MCP server (24 tools) over JSON-RPC"/>
-
-#### 🛰️ AI-Visibility SaaS
-
-Tracks how a brand surfaces across 7 LLMs. I built an MCP server (24 tools, JSON-RPC, OAuth) so AI agents can query it directly, 7-LLM tracking with failover, and document RAG on Pinecone.
-
-<br clear="all"/>
-
-<img align="right" width="240" src="https://myomyokhant.com/sketches/multi-platform-publishing-suite.svg" alt="Publishing suite flow: many workers, one job via advisory-lock SKIP LOCKED → 8 platforms"/>
-
-#### 📡 Multi-Platform Publishing Suite
-
-Multi-platform social publishing and agency ops. I built an 8-network adapter architecture, an AI video pipeline (script → avatar → voice → render), and an advisory-lock scheduler.
-
-<br clear="all"/>
-
-<img align="left" width="240" src="https://myomyokhant.com/sketches/delivery-ops-platform.svg" alt="Delivery ops flow: 4-week rolling-roster window with rollForward and auto-assign to vans"/>
-
-#### 🚚 Delivery-Ops Platform
-
-Workforce and rostering platform, 73K LOC. I built a 4-week rolling-roster engine, Claude compliance-doc analysis, and Supabase RLS dual-key security.
-
-<br clear="all"/>
-
-<img align="right" width="240" src="https://myomyokhant.com/sketches/patient-feedback-nlp.svg" alt="Healthcare NLP flow: comments → BERTopic clusters → 19 categories with sentiment"/>
-
-#### 🩺 Patient-Feedback NLP
-
-Healthcare patient-feedback analytics. I built BERTopic topic modeling with clinical coding and a cost-aware multi-LLM router (local + cloud).
-
-<br clear="all"/>
-
-Architecture walkthroughs — and the private code — available on request.
-
----
-
-### Tech
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -92,17 +34,42 @@ Architecture walkthroughs — and the private code — available on request.
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-I spend most of my time on LLM integration, RAG and vector search, MCP servers, agentic pipelines, payments, and multi-tenant SaaS architecture.
+## Flagship work
 
----
+<img align="right" width="350" src="https://myomyokhant.com/sketches/ai-music-marketplace.svg" alt="AI music marketplace flow: text / audio / URL → CLAP embedding → Pinecone similarity"/>
 
-### GitHub
+### AI Music Marketplace
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varieK&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=varieK&hide_border=true&theme=tokyonight"/>
+AI beat-licensing platform across web, mobile and a Python ML service. I built CLAP semantic audio search (by text, sample or URL), AI mix & master, and dual-rail Stripe + PayPal payments with an idempotent ledger.
+
+<br clear="all"/>
+
+<img align="left" width="350" src="https://myomyokhant.com/sketches/ai-brand-visibility-saas.svg" alt="AI-visibility SaaS flow: AI agents call an MCP server (24 tools) over JSON-RPC"/>
+
+### AI-Visibility SaaS
+
+Tracks how a brand surfaces across 7 LLMs. I built an MCP server (24 tools, JSON-RPC, OAuth) so AI agents can query it directly, 7-LLM tracking with failover, and document RAG on Pinecone.
+
+<br clear="all"/>
+
+<img align="right" width="350" src="https://myomyokhant.com/sketches/multi-platform-publishing-suite.svg" alt="Publishing suite flow: many workers, one job via advisory-lock SKIP LOCKED → 8 platforms"/>
+
+### Delivery-Ops Platform
+
+Workforce and rostering platform, 73K LOC. I built a 4-week rolling-roster engine, Claude compliance-doc analysis, and Supabase RLS dual-key security.
+
+<br clear="all"/>
+
+<img align="left" width="350" src="https://myomyokhant.com/sketches/patient-feedback-nlp.svg" alt="Healthcare NLP flow: comments → BERTopic clusters → 19 categories with sentiment"/>
+
+### Patient-Feedback NLP
+
+Healthcare patient-feedback analytics. I built BERTopic topic modeling with clinical coding and a cost-aware multi-LLM router (local + cloud).
+
+<br clear="all"/>
+
+
+<p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varieK&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&count_private=true"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=varieK&hide_border=true&theme=tokyonight"/>
 </p>
-
----
-
-<p align="center"><i>Open to remote Full-Stack, AI, or Product Engineer roles. Let's build something.</i></p>
