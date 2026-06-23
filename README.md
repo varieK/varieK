@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Myo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Myo%20Myo%20Khant&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </h1>
 
 <p align="center">
@@ -69,9 +69,6 @@ I spend most of my time on LLM integration, RAG and vector search, MCP servers, 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varieK&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&count_private=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=varieK&hide_border=true&theme=tokyonight"/>
 </p>
-
----
-
 
 ---
 
